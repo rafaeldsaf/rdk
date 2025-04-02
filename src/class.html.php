@@ -16,11 +16,6 @@ class Html
     private static string $html;
     private static array $posScript;
 
-    public function __construct()
-    {
-
-    }
-
     /**
      * Cria uma string HTML de forma dinamica
      * @param string $tag

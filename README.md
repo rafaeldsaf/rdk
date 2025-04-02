@@ -2,9 +2,9 @@
 Basic Methods
 
 ## Resources
-
-* RDK/Basic
-* RDK/Html
+* RDK\Basic
+* RDK\Html
+* RDK\Oracle
 
 ## Features
 * Date manipulation
@@ -14,3 +14,4 @@ Basic Methods
 * Test URL and ping hosts
 * Basic encryption
 * Dynamic html assembly, without htl file
+* Connection to Oracle database, with variable bind
